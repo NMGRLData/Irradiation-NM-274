@@ -1,27 +1,64 @@
 {
+    "AX": {},
     "CDD": {
-        "error": 1.6645251072804817e-05, 
-        "fit": "average_SEM", 
+        "error": 1.2406637633780958e-06,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 10
+        },
+        "fit": "Average",
+        "fn": 180,
+        "include_baseline_error": false,
+        "n": 180,
+        "reviewed": true,
         "value": 1.7594851669855415e-06
-    }, 
+    },
     "H1": {
-        "error": 0.04157960422444788, 
-        "fit": "average_SEM", 
-        "value": 0.18331430583364433
-    }, 
+        "error": 0.0033849450358558637,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Average",
+        "fn": 83,
+        "include_baseline_error": false,
+        "n": 90,
+        "reviewed": true,
+        "value": 0.1848290124571467
+    },
     "H2": {
-        "error": 0.1304899693092968, 
-        "fit": "average_SEM", 
+        "error": 0.1304899693092968,
+        "fit": "average_SEM",
         "value": -0.06103720487024273
-    }, 
+    },
     "L1": {
-        "error": 0.31736663718435887, 
-        "fit": "average_SEM", 
+        "error": 0.03345338089502871,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Average",
+        "fn": 90,
+        "include_baseline_error": false,
+        "n": 90,
+        "reviewed": true,
         "value": 0.05674943901184532
-    }, 
+    },
     "L2": {
-        "error": 0.05210685121175822, 
-        "fit": "average_SEM", 
-        "value": 0.13304555887977282
+        "error": 0.0047193821246977186,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Average",
+        "fn": 84,
+        "include_baseline_error": false,
+        "n": 90,
+        "reviewed": true,
+        "value": 0.12995076760472285
     }
 }
